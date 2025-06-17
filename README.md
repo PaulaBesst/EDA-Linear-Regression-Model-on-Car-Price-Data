@@ -101,3 +101,5 @@ Categorical features are converted to numerical values using one-hot encoding.
 1. Clone this repository
 2. Ensure you have the required Python packages installed
 3. Open the Jupyter notebook `EDA_RegressionModel.ipynb` to view the analysis and model
+
+ **If you found this project helpful, please give it a star!** 
